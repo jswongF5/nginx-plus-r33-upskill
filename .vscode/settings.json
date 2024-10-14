@@ -1,0 +1,19 @@
+{
+  "editor.tabSize": 2,
+  "cSpell.words": [
+    "devcontainer",
+    "petname",
+    "solarizedlight",
+    "nginx",
+    "upskilling",
+    "upskill"
+  ],
+  // Specify paths/files to ignore.
+  "cSpell.ignorePaths": [
+    "settings.json",
+    "jsonconfig.json"
+  ],
+  "editor.rulers": [
+    120
+  ],
+}
